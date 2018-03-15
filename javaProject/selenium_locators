@@ -1,0 +1,156 @@
+https://www.seleniumhq.org/download/
+html:  <a title="Selenium Projects" href="/projects/">Projects</a>
+
+x-path:
+// :- Relative Path
+/ :- Absolute Path
+
+//TagName[@AttributeName='AttributeValue']>>>>Syntax of x-path
+
+//a[@title='Selenium Projects']
+//a[@href='/projects/']
+
+CSS:
+TagName[AttributeName='AttributeValue']>>>>Syntax of CSS
+
+a[title='Selenium Projects']
+a[href='/projects/']
+---------------------------------------------------------------------------------
+
+html:  <a title="Get Selenium" href="/download/">Download</a>
+
+x-path:
+//a[@title='Get Selenium']
+//a[@href='/download/']
+//a[contains(text(),'Download')]
+
+CSS:
+a[title='Get Selenium']
+a[href='/download/']
+
+---------------------------------------------------------------------------------       
+html:  <li id="menu_documentation">
+<a title="Technical references and guides" href="/docs/">Documentation</a>
+
+x-path:
+//li[@id='menu_documentation']/a
+//a[@href='/docs/']
+//a[@title='Technical references and guides']
+//a[contains(text(),'Documentation')]
+
+
+CSS:
+li[id='menu_documentation']>a
+a[title='Technical references and guides']
+---------------------------------------------------------------------------------
+html:   <div id="mBody">
+<div id="sidebar">
+<script type="text/javascript" src="/analytics.js"/>
+<div id="mainContent">
+<h2>What is Selenium?</h2>
+
+x-path: 
+//h2[contains(text(),'What is Selenium?')]
+//div[@id='mainContent']/h2
+//div[@id='mBody']/div[2]/h2
+
+
+CSS:
+#mainContent>h2:nth-child(1)
+#mBody>:nth-child(3)>:nth-child(1)
+---------------------------------------------------------------------------------
+html: <input id="submit" type="submit" value="Go"/>
+
+x-path: 
+//input[@id='submit' and @type='submit']
+
+CSS:
+input[id='submit'][type='submit']
+---------------------------------------------------------------------------------
+URL: https://www.facebook.com/
+html:  <input id="email" class="inputtext" type="email" data-testid="royal_email" tabindex="1" name="email"/>
+
+x-path:
+//input[@id='email' and @class='inputtext']
+
+CSS:
+input[id='email'][class='inputtext']
+---------------------------------------------------------------------------------
+html: <input id="u_0_2" type="submit" data-testid="royal_login_button" tabindex="4" value="Log In"/>
+
+x-path:
+//input[starts-with(@id,'u')]
+
+CSS:
+input[id^='u']
+
+input[id$='u'] where end part is fixed
+---------------------------------------------------------------------------------
+ancestor and descendant in selenium 
+following siblings: 
+preceding siblings:
+
+html:  
+
+x-path:
+
+
+CSS:
+ID: #
+Class: .
+Attribute: tagName[Attribute='Value']
+Multiple Attribute: tagName[Attribute='Value1'][Attribute='Value2']
+contains: *
+Starts With: ^
+Ends With: $
+
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+
+following siblings:      $x("//select[@id='day']/following-sibling::*")
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+
+x-path:
+CSS:
+---------------------------------------------------------------------------------
+
+
+x-path:
+CSS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
