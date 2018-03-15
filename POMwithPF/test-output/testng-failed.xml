@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.iCatalyst.POMWithPF.customListener.Listener"/>
+    <listener class-name="com.iCatalyst.POMWithPF.customListener.RetryListener"/>
+  </listeners>
+  <test name="HomePageTest(failed)">
+    <classes>
+      <class name="com.POMwithPF.addToCart.TC001_VerifyAaddToCart">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.POMwithPF.addToCart.TC001_VerifyAaddToCart -->
+      <class name="com.POMwithPF.homepage.TC003_VerifyLoginWithDifferentRecords">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="verifyLoginWithDifferentRecords" invocation-numbers="2 3 4 5"/>
+          <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.POMwithPF.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      <class name="com.POMwithPF.addToCart.TC002_VerifyFacebookLink">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.POMwithPF.addToCart.TC002_VerifyFacebookLink -->
+      <class name="com.POMwithPF.homepage.TC002_VerifyRegistration">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="verifyRegistration"/>
+        </methods>
+      </class> <!-- com.POMwithPF.homepage.TC002_VerifyRegistration -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

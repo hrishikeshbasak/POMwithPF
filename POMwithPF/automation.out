@@ -1,0 +1,934 @@
+2018-03-13 14:22:36 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:22:36 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:22:36 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:22:36 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:22:37 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:22:37 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:22:44 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:22:49 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:22:49 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:22:50 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:22:50 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:22:50 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:22:50 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:22:51 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:22:56 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:23:02 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:02 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:02 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:23:02 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:23:03 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:23:03 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:23:03 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:23:09 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:23:14 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:14 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:14 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:23:14 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:23:15 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:23:15 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:23:15 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:23:21 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:23:26 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:26 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:26 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:23:27 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:23:27 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:23:27 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:23:27 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:23:33 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:23:38 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:38 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:39 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:23:39 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:23:39 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:23:39 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:23:39 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:23:45 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:23:50 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:50 INFO  TC001_RegistrationProcess:45 - ================Starting TC001_RegistrationProcess Test=============== 
+2018-03-13 14:23:51 INFO  Plannnck_Registration:91 - entered the full name
+2018-03-13 14:23:51 INFO  Plannnck_Registration:93 - entered email address
+2018-03-13 14:23:51 INFO  Plannnck_Registration:95 - entered password address
+2018-03-13 14:23:51 INFO  Plannnck_Registration:97 - Re-entered password address
+2018-03-13 14:23:52 INFO  Plannnck_Registration:99 - Entered message for creation
+2018-03-13 14:23:58 INFO  Plannnck_Registration:101 - clicking on submit button
+2018-03-13 14:24:03 INFO  TC001_RegistrationProcess:54 - ================Finishing TC001_RegistrationProcess Test=============== 
+2018-03-13 14:24:04 INFO  TC001_RegistrationProcess:60 - quitting the browser
+2018-03-14 12:35:39 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:35:42 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:35:42 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"PreviewFrame"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 160 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5660_26113}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a7119b4f58d2f42027a5346f93a55118
+*** Element info: {Using=id, value=PreviewFrame}
+2018-03-14 12:35:42 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:35:42 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 12:35:42 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:35:42 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"PreviewFrame"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5660_26113}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a7119b4f58d2f42027a5346f93a55118
+*** Element info: {Using=id, value=PreviewFrame}
+2018-03-14 12:35:43 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:35:43 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 12:35:43 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:35:43 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"PreviewFrame"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5660_26113}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a7119b4f58d2f42027a5346f93a55118
+*** Element info: {Using=id, value=PreviewFrame}
+2018-03-14 12:35:43 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:35:43 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 12:35:43 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:35:43 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"PreviewFrame"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5660_26113}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a7119b4f58d2f42027a5346f93a55118
+*** Element info: {Using=id, value=PreviewFrame}
+2018-03-14 12:35:43 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:35:44 INFO  TestBase:274 - browser closed
+2018-03-14 12:35:48 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:35:53 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:35:53 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:35:53 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:35:54 INFO  TestBase:274 - browser closed
+2018-03-14 12:36:00 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:36:07 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:36:08 INFO  TestBase:274 - browser closed
+2018-03-14 12:36:12 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:36:16 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:36:17 INFO  TestBase:274 - browser closed
+2018-03-14 12:36:23 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:36:27 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:36:27 INFO  TestBase:274 - browser closed
+2018-03-14 12:36:45 INFO  TestBase:123 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2018-03-14 12:36:56 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:36:57 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:35 INFO  TestBase:123 - navigating to :-"E:SeleniumPageObjectWithPageFactoryFramework-masterPageObjectWithPageFactoryFramework-masterprojectdemoSite.htm"
+2018-03-14 12:38:36 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:37 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:37 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:37 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:40 INFO  TestBase:123 - navigating to :-"E:SeleniumPageObjectWithPageFactoryFramework-masterPageObjectWithPageFactoryFramework-masterprojectdemoSite.htm"
+2018-03-14 12:38:40 INFO  TestBase:274 - browser closed
+2018-03-14 12:38:40 INFO  TestBase:274 - browser closed
+2018-03-14 12:39:54 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:40:26 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:40:26 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:40:27 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (d56189f01a28960d66336e5ab7562201)] -> id: customer_register_link]
+2018-03-14 12:40:27 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir4132_23749}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d56189f01a28960d66336e5ab7562201
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:40:27 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:40:27 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 12:40:27 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:40:27 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:40:28 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (d56189f01a28960d66336e5ab7562201)] -> id: customer_register_link]
+2018-03-14 12:40:28 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir4132_23749}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d56189f01a28960d66336e5ab7562201
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:40:28 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:40:28 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 12:40:28 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:40:28 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:40:28 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (d56189f01a28960d66336e5ab7562201)] -> id: customer_register_link]
+2018-03-14 12:40:28 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir4132_23749}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d56189f01a28960d66336e5ab7562201
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:40:28 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:40:29 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 12:40:29 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:40:29 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:40:29 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (d56189f01a28960d66336e5ab7562201)] -> id: customer_register_link]
+2018-03-14 12:40:29 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir4132_23749}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d56189f01a28960d66336e5ab7562201
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:40:29 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:40:30 INFO  TestBase:274 - browser closed
+2018-03-14 12:40:35 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:41:26 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:41:26 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:41:26 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:41:27 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:41:27 INFO  TestBase:274 - browser closed
+2018-03-14 12:41:37 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:42:24 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:42:24 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:42:24 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:42:25 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:42:25 INFO  TestBase:274 - browser closed
+2018-03-14 12:42:30 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:43:21 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:43:21 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:43:21 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:43:22 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:43:23 INFO  TestBase:274 - browser closed
+2018-03-14 12:43:43 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:44:03 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:44:03 INFO  Retry:33 - Retrying test verifyAaddToCart with status FAILURE for the 1 time(s).
+2018-03-14 12:44:03 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:44:03 INFO  Retry:33 - Retrying test verifyAaddToCart with status FAILURE for the 2 time(s).
+2018-03-14 12:44:03 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:44:04 INFO  Retry:33 - Retrying test verifyAaddToCart with status FAILURE for the 3 time(s).
+2018-03-14 12:44:04 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:44:04 INFO  TestBase:274 - browser closed
+2018-03-14 12:44:04 INFO  TestBase:274 - browser closed
+2018-03-14 12:45:14 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:46:01 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:46:01 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:46:01 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (db98f0d0e76b18befae6a286d86f96e4)] -> id: customer_register_link]
+2018-03-14 12:46:01 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 128 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11920_2419}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: db98f0d0e76b18befae6a286d86f96e4
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:46:01 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:46:02 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 12:46:02 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:46:02 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:46:02 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (db98f0d0e76b18befae6a286d86f96e4)] -> id: customer_register_link]
+2018-03-14 12:46:02 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11920_2419}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: db98f0d0e76b18befae6a286d86f96e4
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:46:02 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:46:02 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 12:46:02 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:46:02 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:46:02 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (db98f0d0e76b18befae6a286d86f96e4)] -> id: customer_register_link]
+2018-03-14 12:46:02 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11920_2419}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: db98f0d0e76b18befae6a286d86f96e4
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:46:02 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:46:03 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 12:46:03 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:46:03 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:46:03 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (db98f0d0e76b18befae6a286d86f96e4)] -> id: customer_register_link]
+2018-03-14 12:46:03 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11920_2419}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: db98f0d0e76b18befae6a286d86f96e4
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:46:03 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:46:04 INFO  TestBase:274 - browser closed
+2018-03-14 12:46:08 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:46:58 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:46:58 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:46:58 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:46:59 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:46:59 INFO  TestBase:274 - browser closed
+2018-03-14 12:47:05 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:47:56 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:47:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:47:56 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:47:56 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:47:57 INFO  TestBase:274 - browser closed
+2018-03-14 12:48:02 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:48:56 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:48:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:48:57 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:48:58 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:48:58 INFO  TestBase:274 - browser closed
+2018-03-14 12:49:07 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:49:56 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:49:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:49:57 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:49:57 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:49:57 INFO  TestBase:274 - browser closed
+2018-03-14 12:50:06 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:50:46 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:50:46 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 1 time(s).
+2018-03-14 12:50:46 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:50:46 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 2 time(s).
+2018-03-14 12:50:46 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:50:46 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 3 time(s).
+2018-03-14 12:50:46 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:50:46 INFO  TestBase:274 - browser closed
+2018-03-14 12:53:34 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:53:34 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:54:22 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:54:22 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:54:22 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (367a6c1dc0d5c00b4f12ea7db049df7d)] -> id: customer_register_link]
+2018-03-14 12:54:22 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5684_8754}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 367a6c1dc0d5c00b4f12ea7db049df7d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:54:22 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:54:23 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 12:54:23 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:54:23 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:54:23 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (367a6c1dc0d5c00b4f12ea7db049df7d)] -> id: customer_register_link]
+2018-03-14 12:54:23 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5684_8754}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 367a6c1dc0d5c00b4f12ea7db049df7d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:54:23 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:54:23 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:54:23 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:54:23 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 12:54:23 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:54:24 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:54:24 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (367a6c1dc0d5c00b4f12ea7db049df7d)] -> id: customer_register_link]
+2018-03-14 12:54:24 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5684_8754}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 367a6c1dc0d5c00b4f12ea7db049df7d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:54:24 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:54:24 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:54:24 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 12:54:24 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 12:54:24 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:54:24 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (367a6c1dc0d5c00b4f12ea7db049df7d)] -> id: customer_register_link]
+2018-03-14 12:54:24 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir5684_8754}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 367a6c1dc0d5c00b4f12ea7db049df7d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 12:54:24 INFO  HomePage:181 - switched to the default Content
+2018-03-14 12:54:25 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 12:54:25 INFO  TestBase:274 - browser closed
+2018-03-14 12:54:26 INFO  TestBase:274 - browser closed
+2018-03-14 12:54:31 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:54:31 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:55:18 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:55:18 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:55:18 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:55:19 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:55:19 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:55:19 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:55:19 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:55:19 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:55:20 INFO  TestBase:274 - browser closed
+2018-03-14 12:55:20 INFO  TestBase:274 - browser closed
+2018-03-14 12:55:27 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:55:27 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 12:56:18 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 12:56:18 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 12:56:18 INFO  HomePage:181 - switched to the iframe
+2018-03-14 12:56:19 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 12:56:19 INFO  TestBase:274 - browser closed
+2018-03-14 12:56:19 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 12:56:20 INFO  TestBase:274 - browser closed
+2018-03-14 13:03:47 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:03:47 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:04:34 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:04:34 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:04:34 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (ced516fc86247774e7f2db6946825634)] -> id: customer_register_link]
+2018-03-14 13:04:35 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 427 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir7232_12834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ced516fc86247774e7f2db6946825634
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:04:35 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:04:36 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 13:04:36 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:04:36 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:04:36 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (ced516fc86247774e7f2db6946825634)] -> id: customer_register_link]
+2018-03-14 13:04:36 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir7232_12834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ced516fc86247774e7f2db6946825634
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:04:36 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:04:36 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 13:04:36 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:04:36 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:04:37 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (ced516fc86247774e7f2db6946825634)] -> id: customer_register_link]
+2018-03-14 13:04:37 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir7232_12834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ced516fc86247774e7f2db6946825634
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:04:37 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:04:37 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 13:04:37 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:04:37 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:04:37 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (ced516fc86247774e7f2db6946825634)] -> id: customer_register_link]
+2018-03-14 13:04:37 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir7232_12834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ced516fc86247774e7f2db6946825634
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:04:37 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:04:38 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:04:38 INFO  TestBase:274 - browser closed
+2018-03-14 13:04:43 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:04:46 INFO  Retry:33 - Retrying test verifyLoginWithDifferentRecords with status FAILURE for the 1 time(s).
+2018-03-14 13:04:46 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:04:54 INFO  Retry:33 - Retrying test verifyLoginWithDifferentRecords with status FAILURE for the 2 time(s).
+2018-03-14 13:04:54 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:05:02 INFO  Retry:33 - Retrying test verifyLoginWithDifferentRecords with status FAILURE for the 3 time(s).
+2018-03-14 13:05:02 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:05:15 INFO  TestBase:274 - browser closed
+2018-03-14 13:05:15 INFO  TestBase:274 - browser closed
+2018-03-14 13:05:29 INFO  TestBase:274 - browser closed
+2018-03-14 13:05:33 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:05:33 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:05:40 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:05:40 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 1 time(s).
+2018-03-14 13:05:40 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:05:40 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 2 time(s).
+2018-03-14 13:05:40 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:05:40 INFO  Retry:33 - Retrying test verifyFacebookLink with status FAILURE for the 3 time(s).
+2018-03-14 13:05:40 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:05:40 INFO  TestBase:274 - browser closed
+2018-03-14 13:06:17 INFO  TestBase:274 - browser closed
+2018-03-14 13:20:09 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:20:09 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:20:55 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:20:55 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:20:56 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (42988b0fa61f4bb0680a14d31554559d)] -> id: customer_register_link]
+2018-03-14 13:20:56 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11500_22632}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 42988b0fa61f4bb0680a14d31554559d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:20:56 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:20:56 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:20:57 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:20:57 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 13:20:57 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:20:57 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:20:57 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (42988b0fa61f4bb0680a14d31554559d)] -> id: customer_register_link]
+2018-03-14 13:20:57 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11500_22632}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 42988b0fa61f4bb0680a14d31554559d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:20:57 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:20:57 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 13:20:57 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:20:57 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:20:57 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:20:57 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (42988b0fa61f4bb0680a14d31554559d)] -> id: customer_register_link]
+2018-03-14 13:20:58 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11500_22632}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 42988b0fa61f4bb0680a14d31554559d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:20:58 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:20:58 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 13:20:58 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:20:58 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:20:58 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:20:58 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (42988b0fa61f4bb0680a14d31554559d)] -> id: customer_register_link]
+2018-03-14 13:20:58 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir11500_22632}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 42988b0fa61f4bb0680a14d31554559d
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:20:58 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:20:58 INFO  TestBase:274 - browser closed
+2018-03-14 13:21:00 INFO  TestBase:274 - browser closed
+2018-03-14 13:21:06 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:21:06 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:21:56 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:21:56 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 13:21:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:21:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:21:56 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:21:56 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:21:56 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:21:56 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:21:57 INFO  TestBase:274 - browser closed
+2018-03-14 13:21:57 INFO  TestBase:274 - browser closed
+2018-03-14 13:22:02 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:22:04 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:22:53 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 13:22:53 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:22:53 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:22:53 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:22:54 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:22:54 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:22:54 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:22:54 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:22:55 INFO  TestBase:274 - browser closed
+2018-03-14 13:22:55 INFO  TestBase:274 - browser closed
+2018-03-14 13:55:05 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:55:51 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:55:52 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:55:53 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (f798eb1da8a7b82895f1e0123289a77a)] -> id: customer_register_link]
+2018-03-14 13:55:54 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 199 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir9320_8716}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f798eb1da8a7b82895f1e0123289a77a
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:55:54 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:55:55 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 13:55:55 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:55:55 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:55:55 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (f798eb1da8a7b82895f1e0123289a77a)] -> id: customer_register_link]
+2018-03-14 13:55:55 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir9320_8716}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f798eb1da8a7b82895f1e0123289a77a
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:55:55 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:55:55 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 13:55:55 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:55:55 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:55:56 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (f798eb1da8a7b82895f1e0123289a77a)] -> id: customer_register_link]
+2018-03-14 13:55:56 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir9320_8716}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f798eb1da8a7b82895f1e0123289a77a
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:55:56 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:55:56 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 13:55:56 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 13:55:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:55:56 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (f798eb1da8a7b82895f1e0123289a77a)] -> id: customer_register_link]
+2018-03-14 13:55:56 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir9320_8716}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f798eb1da8a7b82895f1e0123289a77a
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 13:55:56 INFO  HomePage:181 - switched to the default Content
+2018-03-14 13:55:57 INFO  TestBase:274 - browser closed
+2018-03-14 13:56:11 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:56:59 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:56:59 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:57:00 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:57:00 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 13:57:01 INFO  TestBase:274 - browser closed
+2018-03-14 13:57:07 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:57:55 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 13:57:55 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:57:56 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:57:57 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:57:57 INFO  TestBase:274 - browser closed
+2018-03-14 13:58:11 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 13:58:57 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 13:58:58 INFO  HomePage:181 - switched to the iframe
+2018-03-14 13:58:58 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 13:58:59 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 13:58:59 INFO  TestBase:274 - browser closed
+2018-03-14 13:59:09 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:00:01 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 14:00:01 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:00:02 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 14:00:02 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 14:00:03 INFO  TestBase:274 - browser closed
+2018-03-14 14:00:09 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:00:56 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 14:00:56 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:00:56 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 14:00:57 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 14:00:58 INFO  TestBase:274 - browser closed
+2018-03-14 14:08:28 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:09:13 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:09:13 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:09:13 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (2c5f4455362a30c0ea169f3435331128)] -> id: customer_register_link]
+2018-03-14 14:09:13 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 94 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir3300_14187}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2c5f4455362a30c0ea169f3435331128
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:09:13 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:09:14 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 14:09:14 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:09:14 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:09:14 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (2c5f4455362a30c0ea169f3435331128)] -> id: customer_register_link]
+2018-03-14 14:09:14 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir3300_14187}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2c5f4455362a30c0ea169f3435331128
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:09:14 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:09:15 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 14:09:15 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:09:15 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:09:15 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (2c5f4455362a30c0ea169f3435331128)] -> id: customer_register_link]
+2018-03-14 14:09:15 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir3300_14187}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2c5f4455362a30c0ea169f3435331128
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:09:15 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:09:15 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 14:09:15 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:09:15 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:09:15 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (2c5f4455362a30c0ea169f3435331128)] -> id: customer_register_link]
+2018-03-14 14:09:15 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir3300_14187}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2c5f4455362a30c0ea169f3435331128
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:09:15 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:09:16 INFO  TestBase:274 - browser closed
+2018-03-14 14:09:20 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:09:51 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:09:51 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:09:52 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:09:52 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:09:53 INFO  TestBase:274 - browser closed
+2018-03-14 14:09:56 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:14:45 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:15:30 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:15:30 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:15:35 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (8a1b3e2b276bb00f6c8c451fd2689d25)] -> id: customer_register_link]
+2018-03-14 14:15:35 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 52 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir10212_6480}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8a1b3e2b276bb00f6c8c451fd2689d25
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:15:35 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:15:36 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 14:15:36 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:15:36 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:15:36 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (8a1b3e2b276bb00f6c8c451fd2689d25)] -> id: customer_register_link]
+2018-03-14 14:15:36 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir10212_6480}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8a1b3e2b276bb00f6c8c451fd2689d25
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:15:36 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:15:36 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 14:15:36 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:15:37 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:15:37 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (8a1b3e2b276bb00f6c8c451fd2689d25)] -> id: customer_register_link]
+2018-03-14 14:15:37 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir10212_6480}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8a1b3e2b276bb00f6c8c451fd2689d25
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:15:37 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:15:37 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 14:15:37 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:15:37 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:15:37 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (8a1b3e2b276bb00f6c8c451fd2689d25)] -> id: customer_register_link]
+2018-03-14 14:15:37 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir10212_6480}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8a1b3e2b276bb00f6c8c451fd2689d25
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:15:37 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:15:38 INFO  TestBase:274 - browser closed
+2018-03-14 14:15:42 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:16:28 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:16:28 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:16:29 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:16:29 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:16:30 INFO  TestBase:274 - browser closed
+2018-03-14 14:16:33 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:17:17 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 14:17:17 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:17:17 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 14:17:18 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 14:17:19 INFO  TestBase:274 - browser closed
+2018-03-14 14:17:23 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:18:10 INFO  TestBase:29 - =======Starting verifyFacebookLink test========
+2018-03-14 14:18:10 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:18:11 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 14:18:11 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 14:18:12 INFO  TestBase:274 - browser closed
+2018-03-14 14:18:16 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:19:03 INFO  TestBase:24 - =======Starting verifyAaddToCart test========
+2018-03-14 14:19:03 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:19:03 INFO  HomePage:181 - clicked on:-Mens navigation menu
+2018-03-14 14:19:04 INFO  HomePage:181 - clicked on:-Jackets
+2018-03-14 14:19:05 INFO  TestBase:274 - browser closed
+2018-03-14 14:19:11 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:20:33 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:21:18 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:21:18 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:21:19 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (a609498dfb745a68f42345bc656c28fc)] -> id: customer_register_link]
+2018-03-14 14:21:19 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 104 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir32_8697}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a609498dfb745a68f42345bc656c28fc
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:21:19 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:21:19 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 1 time(s).
+2018-03-14 14:21:19 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:21:20 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:21:20 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (a609498dfb745a68f42345bc656c28fc)] -> id: customer_register_link]
+2018-03-14 14:21:20 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir32_8697}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a609498dfb745a68f42345bc656c28fc
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:21:20 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:21:20 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 2 time(s).
+2018-03-14 14:21:20 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:21:20 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:21:20 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (a609498dfb745a68f42345bc656c28fc)] -> id: customer_register_link]
+2018-03-14 14:21:20 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir32_8697}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a609498dfb745a68f42345bc656c28fc
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:21:20 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:21:21 INFO  Retry:33 - Retrying test verifyRegistration with status FAILURE for the 3 time(s).
+2018-03-14 14:21:21 INFO  TC002_VerifyRegistration:32 - =======started verifyRegistration Test===========
+2018-03-14 14:21:21 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:21:21 INFO  HomePage:181 - clicked on sign Up link and object is:-[[ChromeDriver: chrome on XP (a609498dfb745a68f42345bc656c28fc)] -> id: customer_register_link]
+2018-03-14 14:21:21 INFO  TC002_VerifyRegistration:44 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"FirstName"}
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'HRISHIKESH', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RISHIK~1\AppData\Local\Temp\scoped_dir32_8697}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.146, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a609498dfb745a68f42345bc656c28fc
+*** Element info: {Using=id, value=FirstName}
+2018-03-14 14:21:21 INFO  HomePage:181 - switched to the default Content
+2018-03-14 14:21:22 INFO  TestBase:274 - browser closed
+2018-03-14 14:21:26 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2018-03-14 14:22:13 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:22:13 INFO  HomePage:181 - switched to the iframe
+2018-03-14 14:22:13 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:22:14 INFO  TC003_VerifyLoginWithDifferentRecords:41 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-03-14 14:22:14 INFO  TestBase:274 - browser closed
+2018-03-14 14:22:18 INFO  TestBase:123 - navigating to :-file:///E:/Selenium/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
